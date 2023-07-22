@@ -128,8 +128,6 @@
         </plugin>           
       </plugins>
      </pluginManagement>   
-    </build>
-    <build>
         <plugins>
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
@@ -163,7 +161,7 @@
 		                </goals>
 		            </execution>
 		        </executions>
-		</plugin>
+		    </plugin>
         </plugins>
     </build>
 	<repositories>
